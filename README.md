@@ -7,9 +7,12 @@
 ## Install
 
 Clone the repositories
+[Eribot Termux](https://github.com/Tech-Innovation/eribot-local-termux)
 
 [Eribot Local Service](https://github.com/Tech-Innovation/eribot-local-service)
+
 [Eribot Local Sync](https://github.com/Tech-Innovation/eribot-local-sync)
+
 [Eribot Local Plataform Frontend](https://github.com/Tech-Innovation/eribot-local-plataform-frontend)
 
 To the Termux terminal with git clone
