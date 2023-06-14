@@ -2,6 +2,8 @@
 
 ## Description
 
+On this repository you will find a guide about how to install all the software that is used on the Eribot Controller Device.
+
 ## Requirements
 
 ## Install
